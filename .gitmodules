@@ -28,3 +28,6 @@
 [submodule "bundle/rust"]
 	path = bundle/rust
 	url = https://github.com/rust-lang/rust.vim
+[submodule "bundle/molokai"]
+	path = bundle/molokai
+	url = git@github.com:tomasr/molokai.git
