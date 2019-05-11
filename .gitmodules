@@ -31,3 +31,6 @@
 [submodule "bundle/molokai"]
 	path = bundle/molokai
 	url = git@github.com:tomasr/molokai.git
+[submodule "bundle/vim-beancount"]
+	path = bundle/vim-beancount
+	url = https://github.com/nathangrigg/vim-beancount.git
