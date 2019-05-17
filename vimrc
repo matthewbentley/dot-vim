@@ -18,7 +18,8 @@ set hlsearch
 colorscheme molokai
 
 " GitGutter
-set signcolumn=yes
+"set signcolumn=yes
+let g:gitgutter_sign_column_always=1
 
 " Gundo
 nnoremap <F5> :GundoToggle<CR>
